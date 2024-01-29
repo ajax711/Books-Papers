@@ -310,7 +310,7 @@ Example test_nonzeros:
   nonzeros [0;1;0;2;3;0;0] = [1;2;3].
   Proof. 
     reflexivity.
-  Qed. 
+  Qed.
 
 Fixpoint oddmembers (l:natlist) : natlist
   oddmembers 
