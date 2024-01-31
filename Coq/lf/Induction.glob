@@ -1,0 +1,18 @@
+DIGEST 417e4abd6e989ca7e4457504ab6f8a02
+FLF.Induction
+R140:145 Coq.Program.Basics <> <> lib
+R1683:1688 Coq.Strings.String <> <> lib
+R1891:1893 Coq.Init.Logic <> ::type_scope:x_'='_x not
+prf 2782:2796 <> andb_true_elim1
+R2813:2816 Coq.Init.Datatypes <> bool ind
+binder 2807:2807 <> b:1
+binder 2809:2809 <> c:2
+R2836:2839 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2829:2831 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R2821:2824 Coq.Init.Datatypes <> andb def
+R2828:2828 LF.Induction <> c:2 var
+R2826:2826 LF.Induction <> b:1 var
+R2832:2835 Coq.Init.Datatypes <> true constr
+R2841:2843 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R2840:2840 LF.Induction <> b:1 var
+R2844:2847 Coq.Init.Datatypes <> true constr
